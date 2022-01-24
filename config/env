@@ -1,0 +1,6 @@
+#!/bin/sh
+
+export XDG_DATA_DIR='$HOME/.local/share'
+export XDG_CONFIG_DIR='$HOME/.config'
+
+export PATH="$PATH:$HOME/.local/bin"

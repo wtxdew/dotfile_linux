@@ -1,0 +1,11 @@
+#!/bin/sh
+
+alias ls='ls --color=auto'
+alias la='ls -al'
+alias ll='ls -l'
+alias nv='nvim'
+alias lg='lazygit'
+
+alias snv='sudo nvim'
+
+alias suck='sudo make clean install'
